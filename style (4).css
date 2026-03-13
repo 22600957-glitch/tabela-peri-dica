@@ -1,0 +1,173 @@
+
+
+#nm { 
+    background-color: #B3D76A;
+}
+.borda {
+    border: 1px solid #000}
+
+
+    .redondo1{
+        width: 20px;
+        height: 20px;
+
+        background-color: #B3D76A;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+         #nm { 
+    background-color: #B3D76A;
+}
+
+    .redondo2 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #F5C95E;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #ma {
+
+        background-color: #F5C95E;
+    }
+        
+    .redondo3 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #66C4BC;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #S {
+            background-color: #66C4BC;
+
+        }
+    .redondo4 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #A2C6D2;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #om {
+            background-color: #A2C6D2;
+
+        }
+    .redondo5 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #97D7E1;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #l {
+            background-color: #97D7E1;
+
+        }
+    .redondo6 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #67AFDE;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #gn {
+            background-color: #67AFDE;
+
+        }
+
+    .redondo7 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #EFE55B;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #mat {
+            background-color: #EFE55B;
+
+        }
+         
+    .redondo8 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #A7DFF3;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #h {
+            background-color: #A7DFF3;
+
+        }
+        
+    .redondo9 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #F2B0B0;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #mt {
+            background-color: #F2B0B0;
+
+        }
+
+    .redondo10 {
+        width: 20px;
+        height: 20px;
+
+        background-color: #E2BDD8;
+        border-radius: 100%;
+
+        margin-left: auto;
+    }
+
+        #a {
+            background-color: #E2BDD8;
+
+        }
+
+
+
+    h1{ 
+        text-align: center;
+        font-size: 300%;
+    }
+
+    table {
+        margin: auto;
+        padding: 20px;
+    }
+    body { 
+        background-size: 100vh;
+    }
+
+    td{
+        width: 5.5%;
+    }
